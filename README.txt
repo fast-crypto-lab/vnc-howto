@@ -1,5 +1,5 @@
 v1.0.0: Aug 24, 2017 concise 整理原稿。
-v1.0.1: Feb 16, 2022 bypeng fork 至 fast-crypto-lab ，並啟動更新。
+v1.1.0: Feb 16, 2022 bypeng fork 至 fast-crypto-lab ，並更新資訊至 ubuntu 20.04 適用。
 
 本篇適用情境： ubuntu 16.04 以上之 LTS 版本，其中 apt-get 於較新的 ubuntu 建議可改用 apt 指令。
 
